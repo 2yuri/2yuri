@@ -5,7 +5,7 @@
 # About Me
 My name is Yuri, i am junior front end developer!
 <br />
-I am 18 years old
+I am 18 years old, science computer student at UTFPR
 
 # Stack
 
