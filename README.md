@@ -2,10 +2,18 @@
 <img src="https://i.imgur.com/dDyEmZq.png" title="source: imgur.com" />
 </p>
 
-# About Me
-My name is Yuri, i am junior front end developer!
-<br />
-I am 18 years old, science computer student at UTFPR
+<p align="center">
+<img src="https://imgur.com/przcffP.png" title="source: imgur.com" />
+</p>
+
+<p align="center">
+<h1 align="center" >About Me<h1>
+ <h6 align="center" >
+  My name is Yuri, i am junior front end developer! 💻
+  <br />
+ I am 18 years old, science computer student at UTFPR 📚🚀
+ </h6>
+
 
 # Stack
 
