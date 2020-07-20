@@ -6,13 +6,13 @@
 <img src="https://imgur.com/przcffP.png" title="source: imgur.com" />
 </p>
 
-<p align="center">
-<h1 align="center" >About Me<h1>
+<h1 align="center" >About Me
  <h6 align="center" >
   My name is Yuri, i am junior front end developer! 💻
   <br />
  I am 18 years old, science computer student at UTFPR 📚🚀
  </h6>
+<h1>
 
 
 # Stack
