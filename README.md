@@ -2,10 +2,6 @@
 <img src="https://i.imgur.com/dDyEmZq.png" title="source: imgur.com" />
 </p>
 
-<p align="center">
-<img src="https://imgur.com/przcffP.png" title="source: imgur.com" />
-</p>
-
 <h1 align="center" >About Me
  <h6 align="center" >
   My name is Yuri, i am junior front end developer! 💻
@@ -22,9 +18,12 @@
 - Javascript
 - React
 - VueJs
+<h1 align="center" ></h1>
+
 
 <br />
 <br />
+
 
  <p align="center">
   <a target="_blank" href="https://github.com/hyperyuri/">
