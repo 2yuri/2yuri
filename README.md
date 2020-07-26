@@ -1,6 +1,6 @@
-<p align="center">
+<h3 align="center" >👋 Hi there!<h3>
+
 <img src="https://i.imgur.com/dDyEmZq.png" title="source: imgur.com" />
-</p>
 
 <h1 align="center" >About Me
  <h6 align="center" >
