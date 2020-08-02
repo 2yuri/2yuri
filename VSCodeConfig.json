@@ -1,0 +1,52 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.fontWeight": "300",
+  "editor.formatOnSave": false,
+  
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[html]": {
+    "editor.formatOnSave": true
+  },"[vue]": {
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },"[css]": {
+    "editor.formatOnSave": true
+  },"[scss]": {
+    "editor.formatOnSave": true
+  },
+  "editor.wordWrap": "on",
+  "git.ignoreMissingGitWarning": true,
+  "terminal.integrated.rendererType": "dom",
+  "window.zoomLevel": 0,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "code-runner.executorMap": {
+    "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+  },
+  "explorer.confirmDelete": false,
+  "gitlens.gitCommands.skipConfirmations": ["fetch:command", "switch:command"],
+  "gitlens.gitCommands.closeOnFocusOut": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+  	"vue": "html"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "sync.autoDownload": false,
+  "sync.autoUpload": false,
+  "sync.quietSync": false
+}
