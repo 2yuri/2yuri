@@ -4,7 +4,7 @@
 
 <h1 align="center" >About Me
  <h6 align="center" >
-  My name is Yuri, i am junior front end developer! 💻
+  My name is Yuri, i am front end developer! 💻
   <br />
   <br />
  I am 18 years old, science computer student at UTFPR 📚🚀
