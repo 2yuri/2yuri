@@ -14,12 +14,9 @@
 
 # Stack
 
-- HTML
-- CSS & SCSS
-- Javascript
-- React
+- ReactJS
 - VueJs
-- Quasar framework
+
 <h1 align="center" ></h1>
 
 
