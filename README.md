@@ -12,17 +12,30 @@
 <h1>
 
 
-# Stack
+<h1 align="center" >Stack</h1>
 
-- ReactJS
-- VueJs
+<p align="center">
+ <a target="_blank" href="https://github.com/hyperyuri/">
+     <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+   </a>
+  <a target="_blank" href="https://github.com/hyperyuri/">
+     <img src="https://img.shields.io/badge/-Vue.JS-black?style=for-the-badge&logo=VUE.JS" />
+  </a
+   <a target="_blank" href="https://github.com/hyperyuri/">
+     <img src="https://img.shields.io/badge/-QUASAR-black?style=for-the-badge&logo=quasar" />
+  </a
+</p>
+
+
 
 <h1 align="center" ></h1>
 
 
+
 <br />
 <br />
 
+<h1 align="center" >Medias</h1>
 
  <p align="center">
   <a target="_blank" href="https://github.com/hyperyuri/">
