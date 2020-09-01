@@ -15,13 +15,13 @@
 <h1 align="center" >Stack</h1>
 
 <p align="center">
- <a target="_blank" href="https://github.com/hyperyuri/">
+ <a target="_blank" href="https://reactjs.org/">
      <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
    </a>
-  <a target="_blank" href="https://github.com/hyperyuri/">
+  <a target="_blank" href="https://vuejs.org/">
      <img src="https://img.shields.io/badge/-Vue.JS-black?style=for-the-badge&logo=VUE.JS" />
   </a
-   <a target="_blank" href="https://github.com/hyperyuri/">
+   <a target="_blank" href="https://quasar.dev/">
      <img src="https://img.shields.io/badge/-QUASAR-black?style=for-the-badge&logo=quasar" />
   </a
 </p>
