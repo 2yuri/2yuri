@@ -7,7 +7,7 @@
   My name is Yuri, i am front end developer! 💻
   <br />
   <br />
- I am 18 years old, science computer student at UTFPR 📚🚀
+ I am 19 years old, science computer student at UTFPR 📚🚀
  </h6>
 <h1>
 
