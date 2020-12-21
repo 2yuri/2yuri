@@ -1,34 +1,15 @@
-<h3 align="center" >👋 Hi there!<h3>
+<h3 >👋 Hi there!<h3>
 
-<img src="https://i.imgur.com/dDyEmZq.png" title="source: imgur.com" />
 
-<h1 align="center" >About Me
- <h6 align="center" >
-  My name is Yuri, fullstack? developer! 💻
-  <br />
-  <br />
  I am 19 years old, science computer student at UTFPR 📚🚀
- </h6>
-<h1>
-
-
-<h1 align="center" >Stack</h1>
-
-<p align="center">
- <a target="_blank" href="https://reactjs.org/">
-     <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
-   </a>
-  <a target="_blank" href="https://vuejs.org/">
-     <img src="https://img.shields.io/badge/-Vue.JS-black?style=for-the-badge&logo=VUE.JS" />
-  </a
-   <a target="_blank" href="https://quasar.dev/">
-     <img src="https://img.shields.io/badge/-QUASAR-black?style=for-the-badge&logo=quasar" />
-  </a
-</p>
-
-
-<h1 align="center" >Medias</h1>
-
+ 
+ Writing code & learning everything i can.
+ 
+ Just wanna be a good developer & make myself happy.
+ 
+ Currently working with Vue, react, nodejs, dotnet.
+ 
+ 
  <p align="center">
   <a target="_blank" href="https://github.com/hyperyuri/">
     <img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github" />
