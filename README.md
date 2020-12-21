@@ -1,13 +1,13 @@
 <h3 >👋 Hi there!<h3>
 
 
- I am 19 years old, science computer student at UTFPR 📚🚀
+ <h6>I am 19 years old, science computer student at UTFPR 📚🚀<h6>
  
- Writing code & learning everything i can.
+ <h6>Writing code & learning everything i can.<h6>
  
- Just wanna be a good developer & make myself happy.
+ <h6>Just wanna be a good developer & make myself happy.<h6>
  
- Currently working with Vue, react, nodejs, dotnet.
+ <h6>Currently working with Vue, react, nodejs, dotnet.<h6>
  
  
  <p align="center">
