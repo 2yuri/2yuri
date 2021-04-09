@@ -3,11 +3,7 @@
 
  <h6>I am 19 years old, science computer student at UTFPR 📚🚀<h6>
  
- <h6>Writing code & learning everything i can.<h6>
- 
- <h6>Just wanna be a good developer & make myself happy.<h6>
- 
- <h6>Currently working with Vue, react, nodejs, dotnet.<h6>
+ <h6>Currently working with Vue, react, nodejs, dotnet, golang.<h6>
  
  
  <p align="center">
