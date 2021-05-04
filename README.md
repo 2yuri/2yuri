@@ -12,7 +12,7 @@
  - kafka
  
 
-###Also have code experiences with
+### Also have code experiences with
  - C# (web-api)
  - Laravel (web-api middlewares)
   
