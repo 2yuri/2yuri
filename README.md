@@ -10,6 +10,9 @@
   <a target="_blank" href="https://www.linkedin.com/in/yuri-alves-miguel-985790198/">
     <img src="https://img.shields.io/badge/-LINKEDIN-black?style=for-the-badge&logo=linkedin" />
   </a>
+ <a target="_blank" href="https://www.youtube.com/channel/UCoq_zttKwAtgJDwzqeg5Bsg">
+    <img src="https://img.shields.io/badge/-YOUTUBE-black?style=for-the-badge&logo=YOUTUBE&logoColor=white&color=red" />
+  </a>
    <a target="_blank" href="https://twitter.com/Yalvesmiguel">
     <img src="https://img.shields.io/badge/-TWITTER-black?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
