@@ -8,11 +8,13 @@
  - ReactJS
  - NodeJS (microsservices)
  - Go (microsservices)
+ - gRPC
+ - kafka
  
 
-### Sometimes with
+###Also have code experiences with
  - C# (web-api)
- - Laravel (web-api)
+ - Laravel (web-api middlewares)
   
  
  
