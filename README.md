@@ -1,11 +1,22 @@
-<h3 >👋 Hi there!<h3>
+## 👋 Hi there!
 
 
- <h6>I am 19 years old, science computer student at UTFPR 📚🚀<h6>
+### I am 19 years old, science computer student at UTFPR 📚🚀
  
- <h6>Currently working with Vue, react, nodejs, dotnet, golang.<h6>
+### Currently working with
+ - VueJS (quasar framework)
+ - ReactJS
+ - NodeJS (microsservices)
+ - Go (microsservices)
+ 
+
+### Sometimes with
+ - C# (web-api)
+ - Laravel (web-api)
+  
  
  
+ ### My socials:
  <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/yuri-alves-miguel-985790198/">
     <img src="https://img.shields.io/badge/-LINKEDIN-black?style=for-the-badge&logo=linkedin&color=informational" />
