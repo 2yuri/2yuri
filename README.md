@@ -8,7 +8,7 @@
 </p>
 <br />
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/yuri-alves-miguel-985790198/">
+  <a target="_blank" href="www.linkedin.com/in/yurialvesmiguel">
     <img src="https://img.shields.io/badge/-LINKEDIN-black?style=for-the-badge&logo=linkedin&color=0a66c2" />
   </a>
  <a target="_blank" href="https://www.youtube.com/channel/UCoq_zttKwAtgJDwzqeg5Bsg">
