@@ -1,6 +1,6 @@
 <h1  align="center">👋 Hi there!</h1>
 
-<h3 align="center">I am 19 years old, fullstack developer and science computer student at UTFPR 📚🚀</h3>
+<h3 align="center">I am 20 years old and golang/c# developer!</h3>
 
 <br />
 <p align="center" >
