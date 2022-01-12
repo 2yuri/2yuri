@@ -11,4 +11,4 @@ I'm a software developer from Brazil 🏖️
 - Contributing to the Brazilian golang community (videos, articles)
 
 ## Last contributions
-- <a href="https://github.com/fullstorydev/grpcurl"> gRPC UI </a>
+- <a href="https://github.com/fullstorydev/grpcui"> gRPC UI </a>
